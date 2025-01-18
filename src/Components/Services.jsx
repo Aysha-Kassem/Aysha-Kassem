@@ -5,7 +5,7 @@ import { MdScreenshotMonitor } from "react-icons/md";
 export default function Services() {
     return (
         <div className="grid gap-5">
-            <div>
+            <div className="space-y-2">
                 <h3 className="font-bold text-2xl text-zinc-900 dark:text-zinc-200">Services. <hr /></h3>
                 <p className="text-zinc-700 dark:text-zinc-300 text-sm">Crafting Web Experiences! From sleek designs to dynamic apps, I bring your digital ideas to life. Let's create a standout online presence together!</p>
             </div>

@@ -2,7 +2,7 @@
 import { IoLogoInstagram } from "react-icons/io";
 import { CiLinkedin } from "react-icons/ci";
 import { FaFacebookF } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa";
 
 export default function Social(options) {
     return(
@@ -15,14 +15,14 @@ export default function Social(options) {
                     <a href="https://www.instagram.com/aish5.9?igsh=MTRkMXluZGUwOHl3OA==">
                         <IoLogoInstagram className="text-2xl bg-slate-200 size-12 p-3 rounded-md" />
                     </a>
-                    <a href="https://www.linkedin.com/in/aysha-kassem-b137371b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                    <a href="https://www.linkedin.com/in/aysha-kassem-111827313">
                         <CiLinkedin className="text-2xl bg-slate-200 size-12 p-3 rounded-md" />
                     </a>
                     <a href="https://www.facebook.com/shoshokassem59?mibextid=ZbWKwL">
                         <FaFacebookF className="text-2xl bg-slate-200 size-12 p-3 rounded-md" />
                     </a>
-                    <a href="https://x.com/aish559?t=-5-UnYdZA5vLR7Ka4J_A9g&s=09">
-                        <FaXTwitter className="text-2xl bg-slate-200 size-12 p-3 rounded-md" />
+                    <a href="https://github.com/Aysha-Kassem">
+                        <FaGithub className="text-2xl bg-slate-200 size-12 p-3 rounded-md" />
                     </a>
                 </div>
             </div>

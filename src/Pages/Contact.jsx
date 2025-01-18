@@ -1,6 +1,6 @@
 // ICON
 import { MdOutlineEmail } from "react-icons/md";
-import { CiPhone } from "react-icons/ci";
+import { FaWhatsapp } from "react-icons/fa";
 import { IoIosShareAlt } from "react-icons/io";
 
 
@@ -28,9 +28,10 @@ export default function Contact() {
                                 ayshakassem59@gmail.com
                             </h3>
                             <h3 className="flex items-center gap-2">
-                                <CiPhone />
-                                +201551944713
+                                <FaWhatsapp />
+                                +201096384780
                             </h3>
+                            <p className="text-red-700 text-[9px] font-mono">It is preferable to communicate WhatsApp <br /> because of the speed of reply.</p>
                         </div>
                     </div>
                 </div>
